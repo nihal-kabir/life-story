@@ -1,2 +1,2 @@
-# life-story
-this is my life story.
+# on-progress
+currently learning how ML, DL, NLP, LLM.
