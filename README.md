@@ -1,2 +1,2 @@
 # on-progress
-currently learning how ML, DL, NLP, LLM.
+currently learning ML, DL, NLP, LLM.
